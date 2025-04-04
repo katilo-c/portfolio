@@ -44,7 +44,7 @@ I'm a Computer and Software Engineering graduate with a strong passion for techn
 Feel free to reach out for collaboration or inquiries!
 
 📧 Email: [carolkatilo9@gmail.com]  
-🌍 GitHub: [](https://github.com/katilo-c)
+🌍 GitHub: https://github.com/katilo-c
 
 ---
 
